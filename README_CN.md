@@ -2,7 +2,7 @@
 
 | 语言                                                         |             |
 | ------------------------------------------------------------ | ----------- |
-| **中文** | [英文](https://github.com/Grey-Wind/v2ray-Node/blob/main/README.txt) |
+| **中文** | [英文](https://github.com/Grey-Wind/v2ray-Node/blob/main/README.md) |
 
 本项目专门记录好用的v2ray节点供大家使用。
 
