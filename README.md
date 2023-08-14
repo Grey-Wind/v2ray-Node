@@ -2,7 +2,7 @@
 
 | 语言                                                         |             |
 | ------------------------------------------------------------ | ----------- |
-| [中文](https://github.com/Grey-Wind/v2ray-Node/blob/main/README_CN.txt) | **English** |
+| [中文](https://github.com/Grey-Wind/v2ray-Node/blob/main/README_CN.md) | **English** |
 
 This project is dedicated to documenting useful v2ray nodes for everyone to use.
 
